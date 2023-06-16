@@ -28,9 +28,9 @@ The identification of the problem with top-up machines in the metro is related t
 This problem could be solved by using a metro card which can top up by the user’s device itself and does not require any top up machine. For that we are making a virtual metro card which works the same as our traditional metro card but more effectively and efficiently. To integrate with a metro card system, you would need permission and API access, identify the data exchange protocol, develop the interface, implement data storage and retrieval, and test and refine the integration.
 
 
-*Timeline*
-Project timeline    Milestones
-April 2023 	        Project Initiation
-May 2023	          System Design
-June 2023	          Database management
-July 2023	          Build API for Integrating payment and external gateways
+*Timeline*<br>
+Project timeline    <br>
+April 2023 	 :       Project Initiation<br>
+May 2023	    :      System Design<br>
+June 2023	     :     Database management<br>
+July 2023	      :    Build API for Integrating payment and external gateways
