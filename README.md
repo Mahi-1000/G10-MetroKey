@@ -2,7 +2,7 @@
 Executive summary
 Being a citizen of a metro city, we usually face a lot of problems while travelling through metro. As cities continue to grow, public transportation systems become increasingly important, and the metro is no exception. However, with a high number of passengers using the metro, top-up machines can often become congested, causing long lines and inconvenience to passengers.
 
-*Background*<'br'>
+*Background*<br>
 The existing technology used for  metro cards is Block chain includes  Near Field Communication (NFC). NFC is a short-range wireless communication technology that enables devices to establish communication by bringing them close together or in contact with each other.
 
 Major pros of using our metro key technology are:
