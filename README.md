@@ -21,7 +21,7 @@ User adoption: Some users may be hesitant to switch from traditional physical ca
 
 
 *Proposed approaches*<br>
-Problem Identification:<br>
+Problem Identification:<br> 
 The identification of the problem with top-up machines in the metro is related to the challenges caused by the high volume of passengers using them. 
 •	These challenges include congestion, long lines, reduced efficiency, and slower service, which ultimately result in inconvenience for passengers.
 •	The issue highlights the need for effective solutions to improve the top-up process and enhance the overall transportation experience for passengers.
